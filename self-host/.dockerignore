@@ -1,3 +1,0 @@
-# Only the binary goes to the builder: not .env, not data/.
-*
-!remote-agent-server

@@ -1,3 +1,0 @@
-{$RELAY_DOMAIN} {
-	reverse_proxy remote-agent-server:8080
-}
